@@ -1,0 +1,19 @@
+names:
+- Blocking Line
+- Conversation
+- Discussion
+- Not Working
+- Person away
+- Trash on the Floor
+- Using Moblie
+- Walking
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: cam-agi-inhouse-ue68h
+  url: https://universe.roboflow.com/rollerdetection/cam-agi-inhouse-ue68h/dataset/11
+  version: 11
+  workspace: rollerdetection
+test: ../test/images
+train: ../train/images
+val: ../valid/images
